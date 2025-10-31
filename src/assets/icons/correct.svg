@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>check-outlined</title>
+    <g id="购买会员权益" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.01-海运工具额外购买" transform="translate(-1204, -1808)" fill-rule="nonzero">
+            <g id="编组-16备份-4" transform="translate(480, 1611)">
+                <g id="编组-2" transform="translate(684, 106)">
+                    <g id="编组-4" transform="translate(40, 90)">
+                        <g id="check-outlined" transform="translate(0, 1)">
+                            <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="18" height="18"></rect>
+                            <path d="M16.03125,3.33984375 L14.8025391,3.33984375 C14.6302734,3.33984375 14.4667969,3.41894531 14.3613281,3.55429687 L7.11386719,12.7353516 L3.63867188,8.33203125 C3.53144531,8.19667969 3.36972656,8.11757812 3.19746094,8.11757812 L1.96875,8.11757812 C1.85097656,8.11757812 1.7859375,8.25292969 1.85800781,8.34433594 L6.67265625,14.4439453 C6.89765625,14.7287109 7.33007812,14.7287109 7.55683594,14.4439453 L16.1419922,3.56484375 C16.2140625,3.47519531 16.1490234,3.33984375 16.03125,3.33984375 Z" id="路径" fill="#07C160"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
