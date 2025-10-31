@@ -1,6 +1,6 @@
 {
-  "name": "react-ship-location",
-  "version": "0.0.0",
+  "name": "zc-membership-benefits",
+  "version": "1.0.0",
   "type": "module",
   "exports": {
     ".": {
@@ -25,11 +25,11 @@
   "devDependencies": {
     "@ant-design/icons": "^5.6.0",
     "@eslint/js": "^9.30.0",
-    "@rsbuild/core": "^1.5.12",
+    "@rsbuild/core": "^1.6.0",
     "@rsbuild/plugin-mdx": "^1.1.0",
     "@rsbuild/plugin-react": "^1.4.1",
     "@rsbuild/plugin-sass": "^1.4.0",
-    "@rslib/core": "^0.14.0",
+    "@rslib/core": "^0.17.0",
     "@rstest/core": "^0.2.2",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
@@ -57,9 +57,22 @@
     "react": ">=16.9.0",
     "react-dom": ">=16.9.0"
   },
+  "eslintConfig": {
+    "rules": {
+      "@typescript-eslint/no-explicit-any": "error"
+    }
+  },
   "dependencies": {
     "@ant-design/v5-patch-for-react-19": "^1.0.3",
     "postcss": "^8.5.6"
   },
-  "packageManager": "pnpm@10.4.1+sha1.ec73125afa7b740b8fcafeab681883c7ec791a4b"
+  "packageManager": "pnpm@10.4.1",
+  "description": "<div align=\"center\">",
+  "main": "dist/index.js",
+  "directories": {
+    "example": "example",
+    "test": "tests"
+  },
+  "author": "",
+  "license": "ISC"
 }

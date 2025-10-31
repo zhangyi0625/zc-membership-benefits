@@ -1,11 +1,11 @@
 import './membershipBenefits.scss';
-import CloseIcon from '../assets/icons/close.svg';
-import CorrectIcon from '../assets/icons/correct.svg';
-import BalanceIcon from '../assets/icons/balance.svg';
-import WxIcon from '../assets/icons/wx.svg';
-import EmptyIcon from '../assets/icons/empty.svg';
-import QrcodeIcon from '../assets/qrcode.png';
-import MemberIcon from '../assets/icons/member.svg';
+import CloseIcon from './../assets/icons/close.svg';
+import CorrectIcon from './../assets/icons/correct.svg';
+import BalanceIcon from './../assets/icons/balance.svg';
+import WxIcon from './../assets/icons/wx.svg';
+import EmptyIcon from './../assets/icons/empty.svg';
+import QrcodeIcon from './../assets/qrcode.png';
+import MemberIcon from './../assets/icons/member.svg';
 import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import { Button, Radio, Input, Spin } from 'antd';
 import type {
