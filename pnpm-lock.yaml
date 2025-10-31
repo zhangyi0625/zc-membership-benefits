@@ -15,7 +15,7 @@ importers:
         specifier: ^8.5.6
         version: 8.5.6
       react-dom:
-        specifier: '>=16.9.0'
+        specifier: ^19.2.0
         version: 19.2.0(react@19.2.0)
     devDependencies:
       '@ant-design/icons':
@@ -88,7 +88,7 @@ importers:
         specifier: ^3.6.2
         version: 3.6.2
       react:
-        specifier: ^19.1.0
+        specifier: ^19.2.0
         version: 19.2.0
       rsbuild-plugin-publint:
         specifier: ^0.3.3
